@@ -2,7 +2,7 @@
 
 This repo serves as a storage of solutions to the problems I've been doing in leetcode. This serves as a way of consolidating the knowledge and as a reference for later revision.
 
-File structure tree:
+Table of contents:
 
 | ID | Name  | Topic  |
 |:-:|---|:-:|
