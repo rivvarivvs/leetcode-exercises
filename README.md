@@ -9,7 +9,8 @@ Table of contents:
 | 11  |  Container With Most Water |  Array |
 | 15 |  3Sum | Array, Two Pointers  |
 | 82 |  Remove Duplicates from Sorted List II |  LinkedList |
-| 141 |  Linked List Cycle |  LinkedList |
+| 141 |  Linked List Cycle |  LinkedList, Fast + Slow |
+| 142 |  Linked List Cycle II |  LinkedList, Fast + Slow |
 | 328 |  Odd Even Linked List |  LinkedList |
 | 1290 |  Convert Binary Number in a Linked List to an Integer |  LinkedList |
 | 1498 |  Number of Subsequences That Satisfy the Given Sum Condition |  LinkedList |
